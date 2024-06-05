@@ -1,0 +1,25 @@
+.container-fluid {
+  background: white;
+  padding: 0px;
+  border-bottom: 1px solid #e72929;
+}
+
+a {
+  color: #af1313;
+}
+
+a:hover {
+  background-color: #e72929;
+  color: white;
+}
+.navbar {
+  padding: 0rem;
+}
+.navbar-brand {
+  padding: 1rem;
+}
+
+.nav-link {
+  padding: 1rem;
+  margin-right: 1rem;
+}
